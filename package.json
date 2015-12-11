@@ -1,0 +1,17 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "A simple socket based chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jrcanty@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.0",
+    "socket.io": "^1.3.7"
+  }
+}
